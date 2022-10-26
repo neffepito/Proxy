@@ -55,6 +55,6 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com,Google
 DOMAIN-KEYWORD,google,Google
 DOMAIN-KEYWORD,blogspot,Google
 # > Gmail
-DOMAIN,pop.gmail.com,Mail
-DOMAIN,imap.gmail.com,Mail
-DOMAIN,smtp.gmail.com,Mail
+DOMAIN,pop.gmail.com,Google
+DOMAIN,imap.gmail.com,Google
+DOMAIN,smtp.gmail.com,Google
