@@ -4,4 +4,5 @@ host-keyword, 80, WeChat
 host-keyword, servicewechat, WeChat
 host-suffix, qpic, WeChat
 host-suffix, qq, WeChat
+#host-suffix,qq.com, Wechat
 host-keyword, weixin, WeChat

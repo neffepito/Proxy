@@ -370,7 +370,7 @@ host-suffix,qiniucdn.com,DIRECT
 host-suffix,qiniudn.com,DIRECT
 host-suffix,qiyi.com,DIRECT
 host-suffix,qiyipic.com,DIRECT
-host-suffix,qq.com,DIRECT
+#host-suffix,qq.com,DIRECT
 host-suffix,qqurl.com,DIRECT
 host-suffix,rarbg.to,DIRECT
 host-suffix,rrmj.tv,DIRECT
