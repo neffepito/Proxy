@@ -15,7 +15,7 @@ user-agent,MegaWerewolf*,DIRECT
 user-agent,MicroMessenger*,DIRECT
 user-agent,Moke*,DIRECT
 user-agent,osee2unifiedRelease*,DIRECT
-#user-agent,QQ*,DIRECT
+user-agent,QQ*,DIRECT
 user-agent,TeamViewer*,DIRECT
 user-agent,TIM*,DIRECT
 user-agent,ting_en,DIRECT
@@ -370,7 +370,7 @@ host-suffix,qiniucdn.com,DIRECT
 host-suffix,qiniudn.com,DIRECT
 host-suffix,qiyi.com,DIRECT
 host-suffix,qiyipic.com,DIRECT
-#host-suffix,qq.com,DIRECT
+host-suffix,qq.com,DIRECT
 host-suffix,qqurl.com,DIRECT
 host-suffix,rarbg.to,DIRECT
 host-suffix,rrmj.tv,DIRECT
