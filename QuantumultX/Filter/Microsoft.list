@@ -473,8 +473,8 @@ host-suffix,windowssearch.com,Microsoft
 host-suffix,yammer.com,Microsoft
 host-suffix,yammerusercontent.com,Microsoft
 
-# direct
-# > Microsoft Domestics
+# Microsoft Domestics
+# > direct
 host-suffix,bj1.api.bing.com
 host-suffix,azure.cn
 host-suffix,download.microsoft.com
