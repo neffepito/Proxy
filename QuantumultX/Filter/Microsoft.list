@@ -36,9 +36,9 @@ host-suffix,azureserviceprofiler.com,Microsoft
 host-suffix,azuresmartspaces.net,Microsoft
 host-suffix,azurestackvalidation.com,Microsoft
 host-suffix,azurewebsites.net,Microsoft
-host-suffix,chinacloudapi.cn,Microsoft
-host-suffix,chinacloudapp.cn,Microsoft
-host-suffix,chinacloudsites.cn,Microsoft
+# host-suffix,chinacloudapi.cn,Microsoft
+# host-suffix,chinacloudapp.cn,Microsoft
+# host-suffix,chinacloudsites.cn,Microsoft
 host-suffix,devopsms.com,Microsoft
 host-suffix,gotcosmos.com,Microsoft
 host-suffix,microsofteca.com,Microsoft
@@ -122,8 +122,8 @@ host-suffix,s-msedge.net,Microsoft
 
 # > Here
 host-keyword,Here,Microsoft
-host-suffix,heremaps.cn,Microsoft
-host-suffix,ovi.com.cn,Microsoft
+# host-suffix,heremaps.cn,Microsoft
+# host-suffix,ovi.com.cn,Microsoft
 
 ## >> M12
 host-suffix,femalefounderscomp.com,Microsoft
@@ -139,7 +139,7 @@ host-suffix,outlookmobile.com,Microsoft
 host-suffix,live.com,Microsoft
 host-suffix,live.net,Microsoft
 host-suffix,sclive.net,Microsoft
-host-suffix,windowslive.cn,Microsoft
+# host-suffix,windowslive.cn,Microsoft
 host-suffix,wlxrs.com,Microsoft
 host-suffix,livefilestore.com,Microsoft
 
@@ -159,7 +159,7 @@ host-keyword,msn,Microsoft
 host-keyword,msnewskids,Microsoft
 host-suffix,microsoftusercontent.com,Microsoft
 host-suffix,msnkids.com,Microsoft
-host-suffix,winmp.cn,Microsoft
+# host-suffix,winmp.cn,Microsoft
 
 # > Microsoft Developer
 host-keyword,microsoftreactor,Microsoft
@@ -196,7 +196,7 @@ host-suffix,nugettest.org,Microsoft
 host-suffix,opentranslatorstothings.org,Microsoft
 host-suffix,poshtestgallery.com,Microsoft
 host-suffix,pwabuilder.com,Microsoft
-host-suffix,reactorms.com.cn,Microsoft
+# host-suffix,reactorms.com.cn,Microsoft
 host-suffix,sankie.net,Microsoft
 host-suffix,sqlserveronlinux.com,Microsoft
 host-suffix,timelinestoryteller.com,Microsoft
@@ -214,13 +214,13 @@ host-suffix,xboxlive.com,Microsoft
 
 # > Office 365
 host-keyword,Office,Microsoft
-host-suffix,o365cn.com,Microsoft
-host-suffix,o365files.cn,Microsoft
+# host-suffix,o365cn.com,Microsoft
+# host-suffix,o365files.cn,Microsoft
 host-suffix,o365weve-dev.com,Microsoft
 host-suffix,o365weve-ppe.com,Microsoft
 host-suffix,o365weve.com,Microsoft
 host-suffix,office365.com,Microsoft
-host-suffix,officedev.cn,Microsoft
+# host-suffix,officedev.cn,Microsoft
 host-suffix,microsoft365.com,Microsoft
 
 # > OneDrive & Sharepoint
@@ -255,11 +255,11 @@ host-suffix,vsassets.io,Microsoft
 # > Xiaobing
 host-keyword,msminico,Microsoft
 host-suffix,aicscience.com,Microsoft
-host-suffix,mmais.com.cn,Microsoft
+# host-suffix,mmais.com.cn,Microsoft
 host-suffix,msxiaobing.com,Microsoft
 host-suffix,msxiaoice.com,Microsoft
-host-suffix,msxiaona.cn,Microsoft
-host-suffix,officeplus.cn,Microsoft
+# host-suffix,msxiaona.cn,Microsoft
+# host-suffix,officeplus.cn,Microsoft
 host-suffix,renlifang.com,Microsoft
 
 # > Xbox 
@@ -358,7 +358,7 @@ host-suffix,microsoft-int.com,Microsoft
 host-suffix,microsoft-ppe.com,Microsoft
 host-suffix,microsoft-sap-events.com,Microsoft
 host-suffix,microsoft-sbs-domains.com,Microsoft
-host-suffix,microsoft-smb.cn,Microsoft
+# host-suffix,microsoft-smb.cn,Microsoft
 host-suffix,microsoftaccountguard.com,Microsoft
 host-suffix,microsoftads.com,Microsoft
 host-suffix,microsoftadvertising.com,Microsoft
@@ -396,7 +396,7 @@ host-suffix,msappproxy.net,Microsoft
 host-suffix,msauthimages.net,Microsoft
 host-suffix,mschallenge2018.com,Microsoft
 host-suffix,msftauthimages.net,Microsoft
-host-suffix,msftcenterone.cn,Microsoft
+# host-suffix,msftcenterone.cn,Microsoft
 host-suffix,msftconnecttest.com,Microsoft
 host-suffix,msfteducation.ca,Microsoft
 host-suffix,msftidentity.com,Microsoft
@@ -406,9 +406,9 @@ host-suffix,msidentity.com,Microsoft
 host-suffix,msignitechina.com,Microsoft
 host-suffix,msocdn.com,Microsoft
 host-suffix,msocsp.com,Microsoft
-host-suffix,msopentech.cn,Microsoft
-host-suffix,mspil.cn,Microsoft
-host-suffix,msra.cn,Microsoft
+# host-suffix,msopentech.cn,Microsoft
+# host-suffix,mspil.cn,Microsoft
+# host-suffix,msra.cn,Microsoft
 host-suffix,mstea.ms,Microsoft
 host-suffix,msturing.org,Microsoft
 host-suffix,msudalosti.com,Microsoft
@@ -426,7 +426,7 @@ host-suffix,outingsapp.com,Microsoft
 host-suffix,passport.net,Microsoft
 host-suffix,phonefactor.net,Microsoft
 host-suffix,pixapp.net,Microsoft
-host-suffix,playfabapi.cn,Microsoft
+# host-suffix,playfabapi.cn,Microsoft
 host-suffix,playfabcn.com,Microsoft
 host-suffix,powerappscdn.net,Microsoft
 host-suffix,powerautomate.com,Microsoft
@@ -445,7 +445,7 @@ host-suffix,staffhub.ms,Microsoft
 host-suffix,successwithteams.com,Microsoft
 host-suffix,surface.com,Microsoft
 host-suffix,svc.ms,Microsoft
-host-suffix,syncshop.cn,Microsoft
+# host-suffix,syncshop.cn,Microsoft
 host-suffix,sysinternals.com,Microsoft
 host-suffix,tailwindtraders.com,Microsoft
 host-suffix,techhub.ms,Microsoft
@@ -475,7 +475,7 @@ host-suffix,yammerusercontent.com,Microsoft
 
 # > Microsoft Domestics
 host-suffix,bj1.api.bing.com,Microsoft Domestic
-host-suffix,azure.cn,Microsoft Domestic
+# host-suffix,azure.cn,Microsoft Domestic
 host-suffix,download.microsoft.com,Microsoft Domestic
 host-suffix,download.visualstudio.microsoft.com,Microsoft Domestic
 host-suffix,msftconnecttest.com,Microsoft Domestic
