@@ -55,6 +55,7 @@ host-suffix,bethsoft.com,Microsoft
 # > Bing
 host-keyword,Bing,Microsoft
 host-keyword,biying,Microsoft
+host-suffix,bing.com,Microsoft
 host-suffix,bbing.com,Microsoft
 host-suffix,bibg.com,Microsoft
 host-suffix,biing.com,Microsoft
