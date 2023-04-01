@@ -214,7 +214,7 @@ host-suffix,xbox.com,Microsoft
 host-suffix,xboxlive.com,Microsoft
 
 # > Office 365
-host-keyword,Office,Microsoft
+# host-keyword,Office,Microsoft
 # host-suffix,o365cn.com,Microsoft
 # host-suffix,o365files.cn,Microsoft
 host-suffix,o365weve-dev.com,Microsoft
