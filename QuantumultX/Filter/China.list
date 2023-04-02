@@ -93,6 +93,9 @@ host-suffix,myqcloud.com,DIRECT
 host-suffix,qq.com,DIRECT
 host-suffix,tencent.com,DIRECT
 host-suffix,tencent-cloud.net,DIRECT
+IP-CIDR,182.254.116.0/24
+IP-CIDR,203.205.238.0/23
+IP-CIDR,203.205.254.0/23
 # 美图
 host-suffix,meitu.com,DIRECT
 host-suffix,meitudata.com,DIRECT
@@ -121,6 +124,39 @@ host-suffix,v-56.com,DIRECT
 host-suffix,sogo.com,DIRECT
 host-suffix,sogou.com,DIRECT
 host-suffix,sogoucdn.com,DIRECT
+# > Private Tracker
+DOMAIN-SUFFIX,acg.rip
+DOMAIN-SUFFIX,animebytes.tv
+DOMAIN-SUFFIX,awesome-hd.me
+DOMAIN-SUFFIX,broadcasthe.net
+DOMAIN-SUFFIX,chdbits.co
+DOMAIN-SUFFIX,classix-unlimited.co.uk
+DOMAIN-SUFFIX,comicat.org
+DOMAIN-SUFFIX,empornium.me
+DOMAIN-SUFFIX,gazellegames.net
+DOMAIN-SUFFIX,hdbits.org
+DOMAIN-SUFFIX,hdchina.org
+DOMAIN-SUFFIX,hddolby.com
+DOMAIN-SUFFIX,hdhome.org
+DOMAIN-SUFFIX,hdsky.me
+DOMAIN-SUFFIX,icetorrent.org
+DOMAIN-SUFFIX,jpopsuki.eu
+DOMAIN-SUFFIX,keepfrds.com
+DOMAIN-SUFFIX,madsrevolution.net
+DOMAIN-SUFFIX,morethan.tv
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,myanonamouse.net
+DOMAIN-SUFFIX,nanyangpt.com
+DOMAIN-SUFFIX,ncore.cc
+DOMAIN-SUFFIX,open.cd
+DOMAIN-SUFFIX,ourbits.club
+DOMAIN-SUFFIX,passthepopcorn.me
+DOMAIN-SUFFIX,privatehd.to
+DOMAIN-SUFFIX,pterclub.com
+DOMAIN-SUFFIX,redacted.ch
+DOMAIN-SUFFIX,springsunday.net
+DOMAIN-SUFFIX,tjupt.org
+DOMAIN-SUFFIX,totheglory.im
 # 其他常用网站直联
 host-suffix,cn,DIRECT
 host-suffix,360in.com,DIRECT
@@ -194,8 +230,6 @@ host-suffix,myzaker.com,DIRECT
 host-suffix,nim-lang-cn.org,DIRECT
 host-suffix,nvidia.com,DIRECT
 host-suffix,oracle.com,DIRECT
-host-suffix,paypal.com,DIRECT
-host-suffix,paypalobjects.com,DIRECT
 host-suffix,qdaily.com,DIRECT
 host-suffix,qidian.com,DIRECT
 host-suffix,qyer.com,DIRECT
