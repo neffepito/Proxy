@@ -20,7 +20,7 @@ user-agent,TeamViewer*,DIRECT
 user-agent,TIM*,DIRECT
 user-agent,ting_en,DIRECT
 user-agent,WebTorrent*,DIRECT
-user-agent,WeChat*,DIRECT
+# user-agent,WeChat*,DIRECT
 # GeoIP CN段 直联
 GEOIP,CN,DIRECT
 
@@ -84,7 +84,7 @@ host-suffix,xiami.com,DIRECT
 host-suffix,xiami.net,DIRECT
 # 腾讯
 user-agent,MicroMessenger%20Client,DIRECT
-user-agent,WeChat*,DIRECT
+# user-agent,WeChat*,DIRECT
 host-suffix,gtimg.com,DIRECT
 host-suffix,idqqimg.com,DIRECT
 host-suffix,igamecj.com,DIRECT
