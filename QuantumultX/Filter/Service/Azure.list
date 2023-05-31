@@ -37,7 +37,6 @@ host-suffix,microsoftiotcentral.com,Azure
 host-suffix,serverlesslibrary.net,Azure
 host-suffix,tryfunctions.com,Azure
 
-# > Others
 host-suffix,azure.cn, direct
 host-suffix,azurerms.com,Microsoft
 host-suffix,microsoftapps.azurewebsites.net,Microsoft
