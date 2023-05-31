@@ -7,45 +7,6 @@ host-suffix,microsoft.com,Microsoft
 host-suffix,microsoftonline.com,Microsoft
 host-suffix,microsoft-tst.com,Microsoft
 
-# > Azure
-host-keyword,Azure,Microsoft
-host-keyword,azure-dns,Microsoft
-host-keyword,azurecosmosdb,Microsoft
-host-keyword,azuredigitaltwins,Microsoft
-host-keyword,azuredns-prd,Microsoft
-host-keyword,azurefd,Microsoft
-host-keyword,azureplanetscale,Microsoft
-host-keyword,cosmosdb,Microsoft
-host-keyword,windowsazure,Microsoft
-host-suffix,azure-apim.net,Microsoft
-host-suffix,azure-mobile.net,Microsoft
-host-suffix,azure-sphere.com,Microsoft
-host-suffix,azure-test.net,Microsoft
-host-suffix,azurecomcdn.net,Microsoft
-host-suffix,azurecontainer.io,Microsoft
-host-suffix,azurecosmos.net,Microsoft
-host-suffix,azuredatabricks.net,Microsoft
-host-suffix,azuredevopslaunch.com,Microsoft
-host-suffix,azuredigitaltwin.com,Microsoft
-host-suffix,azureedge-test.net,Microsoft
-host-suffix,azureedge.net,Microsoft
-host-suffix,azureiotcentral.com,Microsoft
-host-suffix,azureiotsolutions.com,Microsoft
-host-suffix,azureiotsuite.com,Microsoft
-host-suffix,azureserviceprofiler.com,Microsoft
-host-suffix,azuresmartspaces.net,Microsoft
-host-suffix,azurestackvalidation.com,Microsoft
-host-suffix,azurewebsites.net,Microsoft
-# host-suffix,chinacloudapi.cn,Microsoft
-# host-suffix,chinacloudapp.cn,Microsoft
-# host-suffix,chinacloudsites.cn,Microsoft
-host-suffix,devopsms.com,Microsoft
-host-suffix,gotcosmos.com,Microsoft
-host-suffix,microsofteca.com,Microsoft
-host-suffix,microsoftiotcentral.com,Microsoft
-host-suffix,serverlesslibrary.net,Microsoft
-host-suffix,tryfunctions.com,Microsoft
-
 ## >> Bethesda
 host-suffix,beth.games,Microsoft
 host-suffix,bethesda.net,Microsoft
@@ -298,7 +259,7 @@ host-suffix,ankarazirvesi2018.com,Microsoft
 host-suffix,aria.ms,Microsoft
 host-suffix,aspnetcdn.com,Microsoft
 host-suffix,assets-yammer.com,Microsoft
-host-suffix,azurerms.com,Microsoft
+# host-suffix,azurerms.com,Microsoft
 host-suffix,binads.com,Microsoft
 host-suffix,bluehatil.com,Microsoft
 host-suffix,boswp.com,Microsoft
@@ -365,8 +326,8 @@ host-suffix,microsoftads.com,Microsoft
 host-suffix,microsoftadvertising.com,Microsoft
 host-suffix,microsoftadvertisingregionalawards.com,Microsoft
 host-suffix,microsoftaffiliates.com,Microsoft
-host-suffix,microsoftapps.azurewebsites.net,Microsoft
-host-suffix,microsoftazuread-sso.com,Microsoft
+# host-suffix,microsoftapps.azurewebsites.net,Microsoft
+# host-suffix,microsoftazuread-sso.com,Microsoft
 host-suffix,microsoftcloud.com,Microsoft
 host-suffix,microsoftcloudworkshop.com,Microsoft
 host-suffix,microsoftcommunitytraining.com,Microsoft
