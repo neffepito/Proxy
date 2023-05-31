@@ -437,7 +437,6 @@ host-suffix,yammerusercontent.com,Microsoft
 
 # > Microsoft Domestics
 host-suffix,bj1.api.bing.com, direct
-host-suffix,azure.cn, direct
 host-suffix,download.microsoft.com, direct
 host-suffix,download.visualstudio.microsoft.com, direct
 host-suffix,msftconnecttest.com, direct
