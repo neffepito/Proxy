@@ -33,6 +33,16 @@ host-suffix,test-ipv4.com,DIRECT
 host-suffix,ipv6-test.com,DIRECT
 host-suffix,test-ipv6.com,DIRECT
 host-suffix,whatismyip.com,DIRECT
+host,injections.adguard.org,direct
+host,local.adguard.org,direct
+host-suffix,local,direct
+ip-cidr,192.168.0.0/16,direct
+ip-cidr,10.0.0.0/8,direct
+ip-cidr,172.16.0.0/12,direct
+ip-cidr,127.0.0.0/8,direct
+ip-cidr,100.64.0.0/10,direct
+ip-cidr,224.0.0.0/4,direct
+ip6-cidr,fe80::/10,direct
 # 测速类
 //Speed Test
 # host-suffix,speedtest.net,DIRECT
@@ -157,6 +167,7 @@ DOMAIN-SUFFIX,redacted.ch
 DOMAIN-SUFFIX,springsunday.net
 DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,totheglory.im
+
 # 其他常用网站直联
 host-suffix,cn,DIRECT
 host-suffix,360in.com,DIRECT
