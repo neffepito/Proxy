@@ -44,7 +44,7 @@ cron "5 0 * * *" tag=环境辐射检测, script-path=https://raw.githubuserconte
 const $ = new Env("hjjc");
 
 const location = "evil_hjjcloc";
-$.loc = $.getdata(location) || "广州"
+$.loc = $.getdata(location) || "广东"
 
 !(async () => {
   if ($.loc != "" & $.loc != undefined) {
