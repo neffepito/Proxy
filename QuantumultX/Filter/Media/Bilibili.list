@@ -1,4 +1,5 @@
 # > Bilibili
+host-keyword,bili*,BiliBili
 user-agent,bili*,BiliBili
 user-agent,Bilibili*,BiliBili
 host-suffix,acg.tv,BiliBili
