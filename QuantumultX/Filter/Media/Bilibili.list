@@ -1,6 +1,8 @@
 # > Bilibili
+host-keyword,bili,BiliBili
+host-keyword,bilibili,BiliBili
 user-agent,bili*,BiliBili
-user-agent,Bilibili*,BiliBili
+user-agent,bilibili*,BiliBili
 host-suffix,acg.tv,BiliBili
 host-suffix,acgvideo.com,BiliBili
 host-suffix,b23.tv,BiliBili
