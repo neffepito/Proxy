@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,amp-api.podcasts.apple.com
 DOMAIN-SUFFIX,play.itunes.apple.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-KEYWORD,icloud
 DOMAIN-SUFFIX,icloud
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,gateway.icloud.com
